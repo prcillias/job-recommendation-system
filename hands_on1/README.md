@@ -144,7 +144,7 @@ The data was extracted from 110 pages, resulting in approximately 2,200+ rows. T
 | `Salary Negotiation`   | Binary column (`1` if the salary is negotiable, `0` otherwise). |
 | `Category`             | Main job category. |
 | `Subcategory`          | More specific subcategory or specialization. |
-| `Posted Date`          | Date when the job was posted. |
+| `Posted Date`          | Date time when the job was posted. |
 | `Link`                 | Direct URL to the job’s detail page on Loker.id. |
 | `Role`                 | Job role or function, usually found in the detailed job description. |
 | `Type`                 | Type of employment, e.g., Full Time, Contract, Internship. |
